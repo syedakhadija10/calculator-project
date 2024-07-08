@@ -40,5 +40,7 @@ if (data.operator === "Addition") {
 }else {
     console.log("invalid")
 }
+console.log("the end");
+
 
 
